@@ -1,30 +1,31 @@
 
-<style>
+
+* {
+    background-color: bisque;
+    text size: 13px;
+    font-family: Arial, sans-serif;
+}
 p    {
-   background: white;
-   border: 2px solid rgb(0, 0, 0);
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    color: var(--font-color);
-    background-color: var(--bg-color);
-    font-family: Arial, sans-serif;
+   margin: 13px;
+   padding: 20px;
  }
  
  h1 {
-    color: var(--header-color);
+    color: navy;
     font-size: 3rem;
-    font-style: italic;
-    font-variant: small-caps;
     text-align: center;
   }
  
  h2 {
-    color: var(--header-color);
+    color: navy;
     font-size: 2.5rem;
-    font-variant: small-caps;
  }
  img {
     padding: 20px;
     margin: 30px;
+    border: 5px solid rgb(0, 0, 0);
  }
- </style>
